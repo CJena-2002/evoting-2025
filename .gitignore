@@ -1,0 +1,28 @@
+# Eclipse-specific files
+.settings/
+.project
+.classpath
+
+# Build directories
+bin/
+build/
+target/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java compiled class files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Misc
+*.swp
+*.bak
+*.tmp
