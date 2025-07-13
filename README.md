@@ -59,7 +59,7 @@ An online voting system developed using **JSP**, **Servlets**, and **MySQL**, de
 ## 👤 Author
 
 **Chinmaya Jena**  
-[GitHub Profile](https://github.com/Clena-2002)
+[GitHub Profile](https://github.com/CJena-2002)
 
 ---
 
