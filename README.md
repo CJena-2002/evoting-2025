@@ -1,6 +1,6 @@
-# 🗳️ eVoting System — JSP/Java Based Web Application
+# 🗳️ eVoting System — JSP/Java-Based Web Application
 
-An online voting system developed using **JSP**, **Servlets**, and **MySQL**, designed to replicate real-world election workflows. The application allows user registration, secure login, casting votes, and real-time vote counting — with full admin control and data validation.
+An online voting system developed using **JSP**, **Servlets**, and **MySQL**, designed to replicate real-world election workflows. The application allows user registration, secure login, casting votes, and real-time vote counting, with full admin control and data validation.
 
 ---
 
@@ -59,7 +59,7 @@ An online voting system developed using **JSP**, **Servlets**, and **MySQL**, de
 ## 👤 Author
 
 **Chinmaya Jena**  
-[GitHub Profile](https://github.com/Clena-2002)
+[GitHub Profile](https://github.com/CJena-2002)
 
 ---
 
