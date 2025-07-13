@@ -1,4 +1,6 @@
+*.jsp linguist-detectable=true
 *.jsp linguist-language=Java
 *.java linguist-language=Java
 *.html linguist-language=ignore
 *.css linguist-language=ignore
+*.js linguist-language=ignore
